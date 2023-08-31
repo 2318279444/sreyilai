@@ -12,4 +12,8 @@ public class MyUtils {
         // 实现你的工具方法
         Log.e("aaa","我是自己写的一个工具类22222222222");
     }
+    public  void doSomething3() {
+        // 实现你的工具方法
+        Log.e("aaa","我是自己写的一个工具类333");
+    }
 }
